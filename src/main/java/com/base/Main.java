@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 @Slf4j
 @SpringBootApplication
-@ComponentScan({"com.demo"})
+@ComponentScan({"com.base"})
 public class Main {
     public static void main(String[] args) {
         try {
